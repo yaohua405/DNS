@@ -1,4 +1,4 @@
-# clean code with comments DNS query
+# clean code with comments DNS query, with methodology and technicalities
 
 import sys
 import os
