@@ -1,3 +1,5 @@
+# clean code with comments DNS query
+
 import sys
 import os
 import struct
