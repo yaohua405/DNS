@@ -3,8 +3,8 @@ DNS query equivelent to function of Windows command prompt 'nslookup' command or
 
 Important Concepts:
 
-1. Blueprint and implemention: research DNS Query Message Structure (RFC 1035) and packet manipulation (WireShark) packet analysis (testing)
-2. Solution: DNS Web Sockets (sockets library)
+1. Schema and implemention towards the solution involved: research DNS Query Message Structure (RFC 1035) and packet manipulation (WireShark) packet analysis (testing)
+2. Solution was mainly composed use of: DNS Web Sockets (sockets library)
   
   2.1. Hexadecimal to bit /bytes conversion and manipulation
   
