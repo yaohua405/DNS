@@ -1,5 +1,5 @@
 # DNS
-DNS query equivelent to function of Windows command prompt 'nslookup' command or Unix 'dig' command
+DNS query equivelent to function of Windows command prompt 'nslookup' command or Unix 'dig' command, motivations understanding the DNS command from the a transport layer perspective
 
 Important Concepts:
 
