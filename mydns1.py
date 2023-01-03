@@ -1,4 +1,4 @@
-# File for Assignment 2
+# DNS Query Prototype
 
 import binascii
 import codecs
